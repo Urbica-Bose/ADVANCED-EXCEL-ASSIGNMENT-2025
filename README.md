@@ -14,6 +14,8 @@ Demographics (Age Group, Country, Language Preference)
 Loyalty indicators (Loyalty Points, First Device Used)
 
 What I Did? 
+
+
 As a first-time analyst, here’s what I worked on:
 ✅ Explored and cleaned the data
 ✅ Understood how different user behaviors relate to each other
@@ -27,6 +29,8 @@ As a first-time analyst, here’s what I worked on:
 
 
 📁 File Details
+
+
 streaming_service_data.csv: The raw dataset containing user-level information.
 
 The Project gives an idea of overall engagement level. Thanks for checking out this project!!!! Open to feedback and suggestions.
