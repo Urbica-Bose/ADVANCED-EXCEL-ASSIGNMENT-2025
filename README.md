@@ -2,6 +2,8 @@ Streaming Service User Insights :-
 Welcome to my very first data analysis project!!!! This project focuses on understanding user behavior and engagement for a fictional streaming service platform using a rich dataset of 1,000 users.
 
 What This Project Is About? 
+
+
 I explored a dataset that includes detailed information about user activity, preferences, and demographics on a streaming platform. The data spans across 23 different attributes such as:
 Subscription details (Monthly Price, Membership Status)
 Viewing habits (Watch Hours, Favorite Genre, Primary Watch Time)
